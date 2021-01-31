@@ -6,11 +6,12 @@ to April 29, 2019. To better visualize the results, we plotted our findings on a
 city_data.csv and ride_data.csv files in the Resources folder and then created data frames to complete the analysis. 
 
 ## Results
-Here is the final multiple-line graph and the data frame we produced.
+Here is the final multiple-line graph and the data frame we produced:
 ### Graph
-![](analysis/PyBer_fare_summary.PNG)
+![](analysis/PyBer_fare_summary.png)
 ### Table
 ![](analysis/PyBer_summary.PNG)
+
 While there are some minor dips from week to week, you can clearly see taht urban cities consistently receive the most fares by a 
 significant amount. The same can be said about rural cities barely receiving any fares in a given week. Then, when you look at the table
 comparing the three types of cities, the average fare per driver is significantly higher for rural cities and suburban cities are also about 2.5 times
